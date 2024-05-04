@@ -1,0 +1,35 @@
+* {
+    font-family: "Times New Roman", "Verdana", sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+ol {
+    font-size: 20px;
+    padding: 30px;
+}
+
+h1 {
+    background-color: wheat;
+    color: darkred;
+}
+
+.backlink, h2 {
+    font-size: 30px;
+}
+
+.backlink {
+    padding-top: 40px;
+}
+
+img {
+    border: 5px;
+    border-color: wheat;
+    padding: 20px;
+}
+
+#atom {
+    width: 1200px;
+    height: auto;
+}
